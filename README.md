@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this assignment, I attempted to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I will ran into some problems though, and it is currently not functioning. Although I double and triple checked my paths for connecting my js and css files, I was getting an error that they were not found. In addition, heroku is displaying an application error that I could not figure out.
+In this assignment, I attempted to create a burger logger with MySQL, Node, Express, sequelize, and Handlebars. I will continue to style it, howeber, my main focus was to get it functioning.
 
 
 ### App Design Notes
